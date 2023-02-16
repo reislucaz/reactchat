@@ -1,0 +1,8 @@
+.container-centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin: auto;
+    box-shadow: 0 0 10px 0 #0000001a;
+}

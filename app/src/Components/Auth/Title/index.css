@@ -1,0 +1,13 @@
+.container-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin: 20px auto;
+    font-family: 'Kurale';
+    font-weight: 100;
+    color: #e7e7e7;
+    font-size: 4rem;
+    user-select: none;
+    text-shadow: 0 0 10px #0000001a;
+}

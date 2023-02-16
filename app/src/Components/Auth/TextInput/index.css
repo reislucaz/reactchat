@@ -1,0 +1,9 @@
+.container-form-input {
+    width: 60%;
+    margin: 0.5em auto;
+    border: 2px solid #0000001a;
+    border-radius: 5px;
+    font-size: 1.5em;
+    padding: 10px;
+    background-color: #D9D9D9;
+}

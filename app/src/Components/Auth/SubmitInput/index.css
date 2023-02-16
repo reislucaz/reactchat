@@ -1,0 +1,16 @@
+.container-form-input-submit {
+    margin: 1em auto;
+    border: 2px solid #0000001a;
+    border-radius: 10px;
+    font-weight: 600;
+    color: #0647A8;
+    padding: 10px;
+    background-color: #D9D9D9;
+}
+
+.container-form-input-submit:hover {
+    background-color: #0647A8;
+    color: #D9D9D9;
+    transition: 0.3s;
+    cursor: pointer;
+}
