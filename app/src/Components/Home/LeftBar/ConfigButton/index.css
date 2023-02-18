@@ -1,0 +1,13 @@
+.config-button {
+    width: 100%;
+    height: 10vh;
+    background: #B9D789;
+    border: none;
+    cursor: pointer;
+    font-size: 1.5em;
+    color: #fff;
+}
+
+.config-button:hover {
+    background: #bdd19c;
+}

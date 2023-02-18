@@ -1,0 +1,30 @@
+
+.profile-status {
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 1em;
+    padding: 5px;
+    border-radius: 5px;
+    background: #d7d7d7;
+}
+
+.disponivel {
+    background: #1ba332 !important;
+}
+
+.ocupado {
+    background: #F86363 !important;
+}
+
+.invisivel {
+    background: #ffffff !important;
+    color: #555;
+}
+
+.ausente {
+    background: #f7b500 !important;
+}
+
+.profile-status:hover {
+    cursor: pointer;
+}

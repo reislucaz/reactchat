@@ -1,0 +1,14 @@
+.home-screen {
+    display: grid;
+    grid: 100% / 1fr 1fr 1fr;
+    width: 100vh;
+    height: 100vh;
+    justify-content: center;
+    gap: 3.5rem;
+}
+
+.dashboard-item {
+    height: 90%;
+    margin: auto;
+    border-radius: 1rem;
+}
